@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="FontSize_Min">12sp</dimen>
+    <dimen name="FontSize_Norm">14sp</dimen>
+    <dimen name="FontSize_Max">16sp</dimen>
+    <dimen name="FontSize_XMax">18sp</dimen>
+
+    <dimen name="Padding_Bottom_Norm">20dp</dimen>
+    <dimen name="Padding_Top_Norm">20dp</dimen>
+    <dimen name="Padding_Left_Norm">20dp</dimen>
+    <dimen name="Padding_Right_Norm">20dp</dimen>
+</resources>
